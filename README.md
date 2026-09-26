@@ -1,4 +1,4 @@
-## Hi there 👋
+##Hi, I'm **Arihant**. I'm a developer who loves building games, interactive mechanics, and clean web applications. 👋
 
 <!--
 **ArihantNav-sudo/arihantNav-sudo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
